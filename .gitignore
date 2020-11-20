@@ -1,13 +1,13 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-material-kit-react-master/node_modules
+paper-kit-react-master/node_modules
 
 # testing
-material-kit-react-master/coverage
+paper-kit-react-master/coverage
 
 # production
-material-kit-react-master/build
+paper-kit-react-master/build
 
 # misc
 .DS_Store
@@ -23,6 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # package
-material-kit-react-master/dist
+paper-kit-react-master/dist
 # compiled css
 *.css
